@@ -40,7 +40,7 @@ Spring Framework: 6 Key Areas
         Oracle error: 1400
         Other similar errors
     
-      5) Integration: you can see the denotes(@RestController) to indicate what operation, path or value you are using.
+      5) Integration: you can see the annotations(注解 @RestController) to indicate what operation, path or value you are using.
             restTemple
       
       6) Testing
@@ -56,7 +56,12 @@ Disadvantages of Using Spring
         Too configuration || big || Spring's community projects are hit or miss
 
 
+#Spring Fundamentals
 
+Define of Spring: kinda Inversion of Control Container, refers to Dependency Injection, work without EJB(Enterprise JavaBeans). Transfer some hard-coded pieces in.
+        
+        POJO in Java stands for Plain Old Java Object
+        WORA = Write Once Run Anywhere
 
 
 
